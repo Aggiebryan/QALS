@@ -1,0 +1,50 @@
+# Node
+node_modules/
+npm-debug.log*
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.egg-info/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Docker
+*.pid
+*.sock
+docker-compose.override.yml
+
+# Build outputs
+dist/
+build/
+
+# Database dumps
+*.dump
+*.sql
+*.bak
+
+# Pytest
+.cache/
+coverage.xml
+htmlcov/
+
+# React Native
+ios/
+android/
+
+# Secrets & credentials
+*.key
+*.pem
+secrets.json
