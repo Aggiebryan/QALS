@@ -14,5 +14,5 @@
 Clone the repo:
 
 ```bash
-git clone git@github.com:your-org/qals-cms.git
-cd qals-cms
+git clone git@github.com:Aggiebryan/qals.git
+cd qals
