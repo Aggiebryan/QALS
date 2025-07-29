@@ -1,4 +1,4 @@
-# QALS – Quantum Apex Legal Systems
+# QALS CMS – Quantum Apex Legal Systems
 
 > Confidential CMS for law firms. This repository contains proprietary code under commercial license. Unauthorized use is strictly prohibited.
 
